@@ -1,0 +1,29 @@
+{
+  "collapse-filter": false,
+  "search": "path:\"02 Subjects\"",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    { "query": "tag:#civpro/moc OR file:\"Civil Procedure\"", "color": { "a": 1, "rgb": 14037868 } },
+    { "query": "tag:#civpro/topic", "color": { "a": 1, "rgb": 10237621 } },
+    { "query": "tag:#civpro/framework", "color": { "a": 1, "rgb": 16097024 } },
+    { "query": "tag:#civpro/case", "color": { "a": 1, "rgb": 15226124 } },
+    { "query": "tag:#civpro/statute OR tag:#civpro/rule", "color": { "a": 1, "rgb": 3120708 } },
+    { "query": "tag:#civpro/concept", "color": { "a": 1, "rgb": 1867478 } }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.5,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 200,
+  "scale": 1,
+  "close": false
+}

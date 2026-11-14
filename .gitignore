@@ -1,0 +1,8 @@
+# macOS
+.DS_Store
+
+# Obsidian per-device UI state
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.trash/
